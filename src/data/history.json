@@ -1,0 +1,31 @@
+[
+  {
+    "role": "Associate consultant",
+    "organisation": "Oracle",
+    "startDate": "July, 2024",
+    "endDate": "Present",
+    "experiences": [""],
+    "imageSrc": "history/oracle.png"
+  },
+  {
+    "role": "Vice Chair",
+    "organisation": "IEEE MTT",
+    "startDate": "November, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Conducted a successful workshop on microwave technology",
+      "facilitating knowledge exchange and interactive learning among enthusiasts and experts, driving advancements in the field."],
+    "imageSrc": "history/ieee.png"
+  },
+  {
+    "role": "Board Member",
+    "organisation": "NHCE Coding Club",
+    "startDate": "Apr, 2023",
+    "endDate": "present",
+    "experiences": [
+      "Founded and guided a college Coding Club",
+      " promoting dynamic learning through workshops on Binary Search and coding contests to enhance problem-solving skills and competitiveness."
+    ],
+    "imageSrc": "history/programming.png"
+  }
+]

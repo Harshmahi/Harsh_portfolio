@@ -1,0 +1,26 @@
+[
+  {
+    "title": "MovieHub",
+    "imageSrc": "projects/project.png",
+    "description": "This project is a user-friendly movie application that leverages the TMDB movie database API. It allows users to browse, search, and view movie listings effortlessly. The application automatically updates its data to ensure users have access to the latest movies and shows.",
+    "skills": ["React", "CSS", "HTML"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "ChatGPT Clone (using MERN stack)",
+    "imageSrc": "projects/project.png",
+    "description": "This project is a basic clone of ChatGPT.• Enable authentication to restrict access to logged-in users only.• Integrated OpenAI API for Paragraph summarization, Chatbot functionality, Text generation, JavaScript converte",
+    "skills": [ "Express","React","Node", "MOngoDB","Javascript"],
+    "demo": "https://chatgpt-clone-5usr.onrender.com",
+    "source": "https://github.com/Harshmahi/Mernstack-CHATGPT_CLONE.git"
+  },
+  {
+    "title": "Event Management Website",
+    "imageSrc": "projects/project.png",
+    "description": "Developed event management website where users can book tickets for event and host can create event and manage bookings.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://eventmanagementharsh.netlify.app/",
+    "source": "https://github.com/Harshmahi/EVENTMANAGEMENT"
+  }
+]
